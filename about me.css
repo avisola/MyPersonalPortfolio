@@ -88,3 +88,12 @@ body{
     text-decoration: none;
     text-align: center;
 }
+.bo{
+    position: absolute;
+    left: 2%;
+}
+.boo{
+    position: absolute;
+    top: 202%;
+    left: 2.5%;
+}
