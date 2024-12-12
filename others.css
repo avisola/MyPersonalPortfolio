@@ -1,0 +1,167 @@
+body{
+    background-image: url(ott.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.a{
+    float: right;
+}
+.button{
+display: inline-block;
+    padding: 10px 20px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+.button:hover {
+    background-color:white;
+}
+.aa{
+    position: absolute;
+    left: 15%;
+    top: 10%;
+}
+.aaa{
+position: absolute;
+left: -2%;
+top: 20%;
+}
+.yeah{
+    display: inline-block;
+        padding: 10px 20px;
+        font-size: 50px;
+        color: white;
+        background-color: black;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        cursor: pointer;
+    }
+    .yeah:hover {
+        background-color:white;
+    }
+.aaaa{
+    position: absolute;
+    left: 15%;
+}
+.b{
+    position: absolute;
+    left: -2%;
+    top: 40%;
+}
+.bb{
+    display: inline-block;
+        padding: 10px 20px;
+        font-size: 50px;
+        color: white;
+        background-color: black;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+}
+.bb{
+    position: absolute;
+    left: 15%;
+    top: 40%;
+}
+.bbb{
+    position: absolute;
+    left: -2.5%;
+    top: 56%;
+}
+.yeahh{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+.yeahh:hover {
+    background-color:white;
+}
+.sp{
+    position: absolute;
+    left: 15%;
+    top: 64%;
+}
+.c{
+    position: absolute;
+    left: -2.5%;
+    top: 75%;
+}
+.tik{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+.tik:hover {
+    background-color:white;
+}
+.cc{
+    position: absolute;
+    left: 15%;
+    top: 83%;
+}
+.ccc{
+    position: absolute;
+    left: -2.5%;
+    top: 95%;
+}
+.d{
+display: inline-block;
+        padding: 10px 20px;
+        font-size: 50px;
+        color: white;
+        background-color: black;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+}
+.d{
+    position: absolute;
+    left: 15%;
+    top: 99%;
+}
+.dd{
+    position: absolute;
+    left: -2.5%;
+    top: 112%;
+}
+.ddd{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+.ddd{
+    position: absolute;
+    left: 15%;
+    top: 120%;
+}

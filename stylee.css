@@ -1,0 +1,20 @@
+body{
+    background-image: url(bgg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.a{
+    float: right;
+}
+.sk{
+    position: absolute;
+    bottom: -20%;
+    left: 2%;
+}
+.oth{
+    position: absolute;
+    bottom: 28%;
+    left: 2%;
+}

@@ -1,0 +1,53 @@
+body{
+    background-image: url(jjk.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.a{
+    position: relative;
+    left: -28%;
+}
+.aaa{
+    position: absolute;
+    top: 15%;
+}
+.aaaa{
+    position: absolute;
+    top: 15%;
+    left: 42%;
+}
+.b{
+    position: absolute;
+    top: 15%;
+    left: 57.2%;
+}
+.c{
+    position: absolute;
+    top: 90%;
+    left: 57.2%;
+}
+.d{
+    position: absolute;
+    top: 90%;
+    left: 42%;
+}
+.e{
+    position: absolute;
+    top: 90%;
+    left: 27%;
+}
+.f{
+    position: relative;
+    left: 2%;
+}
+.g{
+    position: absolute;
+    top: 163%;
+    left: 27%;
+}
+.h{
+    position: absolute;
+    top: 163%;
+    left: 42%;
+}

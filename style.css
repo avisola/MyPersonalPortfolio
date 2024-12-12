@@ -1,0 +1,28 @@
+body{
+    background-image: url(PeRSONAL\ STUDENT\ PORTFOLIO\ \(1\).png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color:white;
+  }
+.a{
+    position: absolute;
+    left: 46.5%;
+    bottom: 10%;
+}

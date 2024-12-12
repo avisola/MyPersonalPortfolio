@@ -1,0 +1,28 @@
+body{
+    background-image: url(ott.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.aa{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+.aaa{
+    display: inline-block;
+    padding: 5px 5px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
